@@ -7,7 +7,7 @@ int main()
 
 
 
-
+      cout<<"umair";
 	cout << "baby ";
 	cout << ""; 
 
