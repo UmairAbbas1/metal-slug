@@ -5,7 +5,6 @@ int main()
 {
    
 
-int .
 
 	cout << "baby ";
 	cout << ""; 
