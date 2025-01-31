@@ -7,8 +7,9 @@ int main()
 
 
 
-	cout << "baby ";
 
+	cout << "baby ";
+	cout << ""; 
 
 	return 0;
 }
